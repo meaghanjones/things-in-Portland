@@ -1,0 +1,22 @@
+h1{
+  color: #00E55B;
+  font-family: "Arial", sans-serif;
+  font-size: 50px;
+  align: center;
+}
+
+h2 {
+  color:#008936;
+  font-family: "Arial", sans-serif;
+  font-size: 40px;
+}
+
+ul {
+  color:#005220;
+  font-family: "Arial", sans-serif;
+  font-size: 20px;
+  line-height: 25px;
+}
+ body {
+   background-color: #CCDCD2;
+ }
